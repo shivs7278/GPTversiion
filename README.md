@@ -59,4 +59,7 @@ This project is open-source
 ### Contributors
 Made with ❤️ by [Shivs]
 
+here's the example:
+
+<img width="887" alt="shivsai" src="https://github.com/user-attachments/assets/c9c32dc7-80c2-4a10-835d-e70ccfa08b5c" />
 
